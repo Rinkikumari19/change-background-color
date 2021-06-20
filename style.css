@@ -1,0 +1,16 @@
+
+h1,.main_container{
+    text-align: center;
+}
+
+input{
+    padding: 9px 10px;
+    font-size: 20px;
+}
+.container{
+    border: 1px solid black;
+    width: 24%;
+    height: 470px;
+    margin: auto;
+    background-color: black;
+}
